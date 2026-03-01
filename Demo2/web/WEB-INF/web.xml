@@ -13,4 +13,8 @@
             30
         </session-timeout>
     </session-config>
+    <context-param>
+        <param-name>comName</param-name>
+        <param-value>Siri</param-value>
+    </context-param>
 </web-app>
