@@ -16,7 +16,7 @@
         <p>
             Please enter your details below:
         </p>
-        <form action="" method="post">
+        <form action="NameServlet.do" method="post">
             <table>
                 <tr>
                     <td>Name</td>
